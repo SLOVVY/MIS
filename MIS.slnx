@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="MIS.API/MIS.API.csproj" />
+  <Project Path="MIS.AppHost/MIS.AppHost.csproj" />
+  <Project Path="MIS.MigrationService/MIS.MigrationService.csproj" />
+  <Project Path="MIS.ServiceDefaults/MIS.ServiceDefaults.csproj" />
+</Solution>
